@@ -166,3 +166,11 @@ W3C Speech Recognition Grammar Specification
 Semantic Interpretation
 New Managed API for Speech
 Windows Vista includes a new .NET namespace, System. Speech, that allows developers to speech-enable applications, especially those based on the Windows Presentation Foundation. Authors of managed applications can use this in addition to, or as an alternative to SAPI. For more information, see the System.Speech.* namespaces in the Windows SDK Class Library. They are:
+
+
+System.Speech.Audioformat
+System.Speech.Recognition
+System.Speech.Recognition.SrgsGrammar
+System.Speech.Synthesis
+System.Speech.Synthesis.TtsEngine
+
